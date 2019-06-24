@@ -39,11 +39,11 @@ CREATE TABLE `wizard` (
 --
 
 INSERT INTO `wizard` (`ID`, `FirstName`, `LastName`) VALUES
-(1, 'Abu Bakr', 'Siddique'),
-(2, 'Sahe', 'Ban'),
-(3, 'Rishu', 'Ranjan'),
-(5, 'Kamran', 'Mohsin'),
-(6, 'Noor', 'Imam');
+(1, 'John', 'Cena'),
+(2, 'Roman', 'Reigns'),
+(3, 'Steven', 'Anderson'),
+(5, 'The', 'Undertaker'),
+(6, 'Bret', 'Hart');
 
 --
 -- Indexes for dumped tables
