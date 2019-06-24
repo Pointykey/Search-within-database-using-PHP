@@ -26,7 +26,7 @@ if (isset($_POST["sub"]))
 			{
 				$fstN = $info["FirstName"];
 				$lstN = $info["LastName"];
-				$id = $info["ID"];
+		
 
 				$result = "" .$fstN. " " .$lstN. "<br>" . "";
 				print($result);
